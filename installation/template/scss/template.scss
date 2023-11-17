@@ -267,7 +267,7 @@ $table-bg: transparent;
     // emphasis than we require for the header
     .j-install-step-header {
       color: #fff;
-      background-color: $dark-blue;
+      background-color: var(--secondary-bg);
     }
   }
 }
